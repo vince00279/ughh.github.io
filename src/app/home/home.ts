@@ -121,7 +121,7 @@ import {HousingService} from '../housing';
            
           </div>
           <div class="hero-badges">
-            <span>4th year student</span>
+            <span>4th year studentsssss</span>
             <strong>Major in WST</strong>
           </div>
         </div>
@@ -167,3 +167,4 @@ export class Home {
     section?.scrollIntoView({behavior: 'smooth', block: 'start'});
   }
 }
+
